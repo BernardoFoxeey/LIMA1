@@ -1,0 +1,100 @@
+header {
+    text-align: center;
+    background: linear-gradient(to bottom, #e90f07, #9d55f0);
+    color: white;
+    padding: 45px;
+}
+
+.header,h2 {
+    font-size: 16px;
+    
+}
+
+nav, a {
+    text-align: left;
+    word-spacing: 5px;
+    width: 100%;
+    color: rgb(87, 58, 156);
+    text-decoration: none;
+}
+
+main {
+    text-align: center;
+    background-color: rgb(255, 236, 213);
+    margin-left: 10%;
+    margin-right: 10%;
+    border: black 2px solid;
+}
+
+.doc {
+    background-color: rgb(201, 198, 194);
+    margin-left: 5%;
+    margin-right: 5%;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    border: black 2px solid;
+    border-radius: 20px;
+}
+
+.doc h1 {
+    color : rgb(0, 0, 0);
+     background: linear-gradient(to right, #842bf8, #fbf9ff);
+    text-align: left;
+    padding-left: 5%;
+    font-size: 25px;
+}
+
+.doc > h2 {
+    color: rgb(0, 0, 0);
+     background: linear-gradient(to right, #842bf8, #fbf9ff);
+     text-align: left;
+    padding-left: 5%;
+    font-size: 25px;
+}
+
+.doc > p {
+    text-align: justify;
+    padding-left: 5%;
+    padding-right: 5%;
+    font-size: 18px;
+    color: rgb(0, 0, 0);
+}
+
+.doc > a {
+    color: blueviolet;
+}
+
+.curiosidades {
+    color: rgb(153, 50, 221);
+}
+.curiosidades > p {
+    color : rgb(0, 0, 0);
+     background: linear-gradient(to right, #842bf8, #fbf9ff);
+    text-align: left;
+    padding-left: 5%;
+    font-size: 25px;
+
+}
+
+iframe {
+    position: relative;
+    background-color:  darkslateblue;
+}
+
+.doc > p {
+    text-align: justify;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+.lista {
+    display: flex;
+    gap: 50%;
+    color: rgb(153, 50, 221);
+    text-align: left;
+}
+
+
+
+
+
